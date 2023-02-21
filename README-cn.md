@@ -71,4 +71,8 @@ const b = 1;
 
 ## 开源协议
 
-[MIT](LICENSE)
+[MIT](LICENSE) 
+
+##
+
+### study git
